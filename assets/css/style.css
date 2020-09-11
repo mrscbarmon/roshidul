@@ -1,0 +1,69 @@
+.st{
+	width: 100%;
+	height: 475px;
+	background: lightgreen;
+}
+.nd{
+	width: 100%;
+	height: 475px;
+	background: lightblue;
+}
+.nd img{
+	width: 850px;
+	height: 850px;
+	margin-top: -375px;
+	margin-left: 10%;
+}
+.st h2{
+	width: 90%;
+	margin-left: 5%;
+	color: red;
+}
+.text{
+	margin-left: 60%;
+	margin-top: -650px;
+	padding: 10px;
+}
+.text h1{
+	font-size: 120px;
+	font-family: arial;
+	color: #403e3d;
+	text-shadow: 4px 8px gray;
+
+}
+.text h2{
+	color: #403e3d;
+	font-size: 40px;
+	margin-top: -80px;
+}
+.text button{
+	width: 150px;
+	background:blue;
+	border-radius: 8px; 
+}
+.text a{
+	color: white;
+	text-decoration: none;
+	font-size: 25px;
+}
+.text button:hover{
+	color: yellow;
+	background: lightgreen;
+}
+.text a:hover{
+	color: red;
+}
+
+.text h3{
+	color: #403e3d;
+	margin-top: -30px;
+	font-size: 22px;
+}
+.text h4{
+	color: #403e3d;
+	font-size: 20px;
+}
+.text p{
+	margin-top: 10px;
+	margin-left: 20px;
+}
